@@ -117,9 +117,7 @@ I enjoy building scalable systems, solving real-world problems, and sharing what
 
 ---
 
-##  GitHub Stats  
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijo7&layout=compact&theme=tokyonight&hide_border=true)
+
 
 
 ---
