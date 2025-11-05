@@ -13,8 +13,6 @@ I enjoy building scalable systems, solving real-world problems, and sharing what
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) <br>
@@ -25,18 +23,6 @@ I enjoy building scalable systems, solving real-world problems, and sharing what
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🚀 Content Optimizer Plugin</h3>
-      <p>
-        Full-stack WordPress plugin with SEO analysis, image optimization, 
-        and performance audits using Google Lighthouse (Node.js + PHP).
-      </p>
-      <p>
-        <a href="https://github.com/rijo7/content_optimizer_wp">
-          <img src="https://img.shields.io/badge/🔗-View%20Project-blue?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
     <td width="50%">
       <h3>📊 Finance Manager</h3>
       <p>
