@@ -38,8 +38,6 @@ I enjoy building scalable systems, solving real-world problems, and sharing what
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>🛒 MAC (E-Commerce App)</h3>
       <p>
@@ -55,6 +53,8 @@ I enjoy building scalable systems, solving real-world problems, and sharing what
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>📄 SmartDoc AI</h3>
       <p>
@@ -67,8 +67,6 @@ I enjoy building scalable systems, solving real-world problems, and sharing what
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>🛠 OnePageTools</h3>
       <p>
